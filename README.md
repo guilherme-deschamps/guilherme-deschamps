@@ -1,4 +1,4 @@
-### Hi there 👋
+### Java developer with 3+ years of experience, passionated by technology and focused on learning AI and Data Analysis! 👋
 
 <!--
 **guilherme-deschamps/guilherme-deschamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
