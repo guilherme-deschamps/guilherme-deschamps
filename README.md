@@ -1,4 +1,11 @@
-### Java developer with 3+ years of experience, passionated by technology and focused on learning AI and Data Analysis! 👋
+### Spring Boot developer with 4 years of experience, currently focused on studying and practicing Machine Learning! 👋
+
+ In summary, I am currently:
+
+- 🔭 Working at Myriad U.G., developing predictive models for autonomous vertical gardening,
+- 🌱 Studying Machine Learning (repositories coming soon :) ) and MLOps,
+- 👯 Looking to collaborate on AI explainability and computer vision!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guilherme-rafael-deschamps/)
 
 <!--
 **guilherme-deschamps/guilherme-deschamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
