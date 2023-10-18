@@ -1,9 +1,9 @@
-### Spring Boot developer with 4 years of experience, currently focused on studying and practicing Machine Learning! 👋
+### Spring Boot developer with 4 years of experience, currently working with Machine Learning and having fun with NLP and Computer Vision projects! 👋
 
  In summary, I am currently:
 
 - 🔭 Working at Myriad U.G., developing predictive models for autonomous vertical gardening,
-- 🌱 Studying Machine Learning (repositories coming soon :) ) and MLOps,
+- 🌱 Studying Machine Learning (more repositories coming out soon :) ) and MLOps,
 - 👯 Looking to collaborate on AI explainability and computer vision!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guilherme-rafael-deschamps/)
 
