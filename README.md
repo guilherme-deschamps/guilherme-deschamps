@@ -3,8 +3,8 @@
  In summary, I am currently:
 
 - 🔭 Working at Myriad U.G., developing predictive models for autonomous vertical gardening,
-- 🌱 Studying Machine Learning (more repositories coming out soon :) ) and MLOps,
-- 👯 Looking to collaborate on AI explainability and computer vision!
+- 🌱 Studying Computer Vision, LLMs (more repositories coming out soon :) ) and MLOps,
+- 👯 Looking to collaborate on AI explainability!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guilherme-rafael-deschamps/)
 
 <!--
