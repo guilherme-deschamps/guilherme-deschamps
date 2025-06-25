@@ -1,4 +1,5 @@
-### Spring Boot developer with 4 years of experience, currently working with Machine Learning and having fun with NLP and Computer Vision projects! 👋
+### Readme coming soon :) AI Engineer at Premiersoft, should be enough for a while! 👋
+<!-- ### Spring Boot developer with 4 years of experience, currently working with Machine Learning and having fun with NLP and Computer Vision projects! 👋
 
  In summary, I am currently:
 
@@ -6,6 +7,7 @@
 - 🌱 Studying Computer Vision, LLMs (more repositories coming out soon :) ) and MLOps,
 - 👯 Looking to collaborate on AI explainability!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/guilherme-rafael-deschamps/)
+-->
 
 <!--
 **guilherme-deschamps/guilherme-deschamps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
