@@ -22,4 +22,45 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# 👋 Hi, I'm Guilherme Deschamps
+
+**AI Engineer** passionate about building intelligent solutions that scale.
+
+- 🚀 **Current Role:** AI Engineer
+- 💡 **Top Skills:**  
+  - Python
+  - Databases  
+  - Docker  
+  - GenAI
+
+- 🧪 **Favorite Project:**  
+  [LIME Stability Experiment](#)  
+  *(Feel free to update the link above to your project’s repository!)*
+
+---
+
+## 🌱 What I’m Learning
+
+- MMLOps best practices
+- LangGraph and AI evaluation
+- Infrastructure for scalable AI systems
+
+---
+
+## 🎸 Fun Facts
+
+- I play guitar  
+- Enjoy playing sports  
+- Always curious about new tech in AI and infra
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/guilherme-rafael-deschamps/)
+
+---
+
+*Let’s build something amazing together!*
 -->
